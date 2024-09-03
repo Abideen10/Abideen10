@@ -5,9 +5,7 @@
 - 📫 How to reach me deensaih6159@gmail.com, nurabideen.sa@mail.wu.ac.th
 - 😄 Pronouns: Call me Deener!!!!!!!!
 - ⚡ Fun fact: I'm torn between diving into the limitless possibilities of IoT or honing my skills in Frontend development – decisions, decisions!
-
 - I just updated my Github. I'll update the code soon. LOL👍😢
-<!--- * ✉️  You can contact me at [deensaih6159@gmail.com](mailto:deensaih6159@gmail.com) --->
 
 ### Skills
 
