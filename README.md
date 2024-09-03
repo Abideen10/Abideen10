@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced JavaScript frameworks like React and exploring full-stack development
 - 💞️ I’m looking to collaborate on open-source projects that combine Python back-end with sleek front-end designs
 - 📫 How to reach me deensaih6159@gmail.com, nurabideen.sa@mail.wu.ac.th
-- 😄 Pronouns: ...
+- 😄 Pronouns: Call me Deener!!!!!!!!
 - ⚡ Fun fact: I'm torn between diving into the limitless possibilities of IoT or honing my skills in Frontend development – decisions, decisions!
 
 <!---
