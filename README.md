@@ -2,8 +2,7 @@
 - 👀 I’m interested in Python, Frontend Development, and IoT
 - 🌱 I’m currently learning advanced JavaScript frameworks like React and exploring full-stack development
 - 📫 How to reach me deensaih6159@gmail.com, nurabideen.sa@mail.wu.ac.th
-- 😄 Pronouns: Call me Deener!!!!!!!!
-- ⚡ Fun fact: I'm torn between diving into the limitless possibilities of IoT or honing my skills in Frontend development – decisions, decisions!
+- 😄 Pronouns: Call me Deener!!!!!!!
 - 🔥I just updated my Github. I'll update the code soon. LOL👍😢
 
 ### Skills
