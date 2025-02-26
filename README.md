@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Abideen10
-- 👀 I’m interested in Python, Frontend Development, and IoT
-- 🌱 I’m currently learning advanced JavaScript frameworks like React and exploring full-stack development
-- 📫 How to reach me deensaih6159@gmail.com, nurabideen.sa@mail.wu.ac.th
-- 😄 Pronouns: Call me Deener!!!!!!!
-- 🔥I just updated my Github. I'll update the code soon. LOL👍😢
-
 ### Skills
 
 <p align="left">
